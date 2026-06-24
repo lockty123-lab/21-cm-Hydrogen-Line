@@ -1,3 +1,29 @@
-# Shared 21 cm Hydrogen Line logic
+# 21 cm Hydrogen Line Radio Astronomy Research
 
-This repository follows the organization's shared "21 cm Hydrogen Line" logic. All repositories use the same core design and interfaces for the 21 cm logic; please follow the canonical implementation and tests used across projects. If you need the canonical reference or further details, provide the link or contact the platform team.
+## Overview
+Radio astronomy research focused on the 21 cm hydrogen line, used for observing neutral hydrogen and cosmic structure.
+
+## Contents
+- Radio observation data and analysis
+- 21 cm line detection protocols
+- Astronomical object surveys
+- Spectral analysis and findings
+
+## Research Applications
+- Neutral hydrogen mapping
+- Cosmic distance measurements
+- Galactic structure studies
+- Redshift and velocity determinations
+
+## Related Projects
+- [Green-flash-other-F1-Atmosphere](https://github.com/lockty123-lab/Green-flash-other-F1-Atmosphere) - Multi-wavelength observations
+- [Radiation-Master](https://github.com/lockty123-lab/Radiation-Master) - Radio frequency aspects
+
+## Open Science
+All observational data and analysis are publicly available for research and education.
+
+## Data Access
+Review raw observations, processed data, and analysis results.
+
+---
+*Lockty123-Lab Radio Astronomy Initiative*
